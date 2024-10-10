@@ -1,3 +1,6 @@
+> [!NOTE]
+> During my time in the EagleTRT Software team i worked on the LV-BMS of the car
+
 # Documentation
 
 ### FSG2024 Rules
